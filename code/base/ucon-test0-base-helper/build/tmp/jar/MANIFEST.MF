@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Jar-Id: 
+Project-Name: ucon-test0-base-helper
+Build-Tool: Gradle 7.6.3
+Build-Date: 2024-10-07 11:41:39
+Built-By: Kingdee Cosmic Developer Tools
+Build-Num: 20241007114139481
+App-Name: 
+Git-Branch: 
+Cloud-Name: 
+Group-Name: ucon.cosmic
+Bundle-Version: 1.0.0
+Git-Commit-Hash: 
+Build-Image: 
+Build-Jdk: 1.8.0_212
+
